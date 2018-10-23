@@ -1,0 +1,1 @@
+print("Freddy är kass")
